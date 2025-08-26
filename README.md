@@ -1,5 +1,5 @@
 # tugaspostest
-#Tugas postest david sebastian sutandy
+# Tugas postest david sebastian sutandy
 import math
 #saya menggunakan import math agar bisa melakukan operasi seperti sqrt untuk rumus pythagoras
 def biodata():
